@@ -2,7 +2,20 @@
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
 ## Descrição do Projeto
-<p></p>
+<p>
+  App "Clone" Meu INSS
+
+================== Projeto Individual de React Native ===========================
+
+App feito no Expo.
+
+------ Os botões de navegação são: ---------
+
+Botão de "Entrar" na tela Home (Tela Inicial do APP), onde vai redirecionar para a tela "Login".
+
+Botão de "Continuar" na tela Login, onde vai validar o CPF.
+
+</p>
 
 ## Telas Originais
 
