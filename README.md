@@ -43,12 +43,12 @@ Botão de "Continuar" na tela Login, onde vai validar o CPF.
   ![Tela Imput False](https://github.com/thiagobellato/desenvolvimentomobile_individual/blob/main/prints/tela%202.1%20imput%20false.jpeg)
 
 ## Ferramentas e tecnologias
-- [Git]() <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30"/>
-- [GitHub]() <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" height="30"/>
 - ``Node``
 - ``VS Code``
 - ``React-Native``
 - ``Expo``
+- ``Git``
+- ``GitHub``
 
 ## Colaboradores
 - [THIAGO FREDERICO BELLATO](https://github.com/thiagobellato)
